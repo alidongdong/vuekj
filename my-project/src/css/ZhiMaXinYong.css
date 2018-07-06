@@ -1,0 +1,40 @@
+img{
+    width:18px;
+    height: 18px;
+}
+ul{
+    list-style: none;
+    background-color: #ffffff;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    width:100%;
+    padding-left: 10px;
+}
+li{
+    text-align: left;
+    height:35px;
+    line-height: 35px;
+}
+.touxiang {
+    /* margin-right:20px; */
+    margin-top: 7px;
+    float: left;
+}
+.jiantou{
+    float: right;
+    margin: 10px 20px 0 10px;
+    width:12px;
+    height:12px;
+}
+li div{
+    margin-left: 10%;
+    text-align: left;
+}
+.duanluo{
+    border-bottom:1px solid #ccc;
+    
+    /* width: 85%; */
+}
+.dcolor{
+    color: darkgrey!important;
+}
